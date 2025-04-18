@@ -1,0 +1,57 @@
+body {
+  margin: 0;
+  background-color: rgb(255, 255, 255);
+  font-style: unset;
+  font-size: large;
+  font-family: "Montserrat", sans-serif;
+}
+
+h1 {
+  margin: 0;
+}
+
+.full_shapka {
+  background-color: black;
+  color: azure;
+  padding-bottom: 50px;
+}
+
+.logo {
+  display: flex;
+  padding-top: 50px;
+  transition: color 0.3s;
+  cursor: default;
+  justify-content: center;
+}
+.logo:hover {
+  color: burlywood;
+}
+
+.menu {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+menu,
+p {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 15px;
+  cursor: pointer;
+  transition: color 0.3s;
+}
+
+menu,
+p:hover {
+  color: blanchedalmond;
+}
+
+.main_nav {
+}
+.foot {
+  background-color: black;
+  padding-bottom: 200px;
+  color: azure;
+}
