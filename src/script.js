@@ -4,6 +4,6 @@ function hello() {
 function gg() {
   alert("У тебя все получится!!!");
 }
-function bb() {
-  alert("Я в тебя верю");
+function gg() {
+  alert("Саня, ты справишься, я в тебя верю, правда..)");
 }
